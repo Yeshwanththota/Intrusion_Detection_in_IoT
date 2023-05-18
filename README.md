@@ -1,5 +1,5 @@
 # Intrusion_Detection_in_IoT
-Implemented an Edge and cloud-based hierarchical architecture to detect the network intrusion detection in IoT using Split ML.
+Implemented an Edge and cloud-based hierarchical architecture for network intrusion detection in IoT using Split FL.
 
 Challenge: Intrusion detection in IoT using split federated learning.
 
